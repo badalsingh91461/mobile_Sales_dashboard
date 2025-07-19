@@ -15,7 +15,7 @@
 
 
 **2. 🎯 Project Objectives:**
-   . Present key sales metrics (revenue, quantity, transactions, and average value)
+   . Present key sales metrics (Revenue, Quantity, Transactions, and Average value)
 
    . Enable interactive filtering by model, brand, payment method, and time
 
