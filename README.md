@@ -120,5 +120,5 @@ This project reflects a practical application of Power BI to transform raw busin
 
 **
 9. Screenshots/Demos:**
-    Show what the dashboard looks like [Dashboard Preview].(https://github.com/badalsingh91461/mobile_Sales_dashboard/blob/main/mobile_Sales.dashboard.png)
+    Show what the dashboard looks like [Dashboard Preview].(https://github.com/badalsingh91461/mobile_Sales_dashboard/blob/main/mobile_Sales.Dashboard.png?raw=true)
    
