@@ -61,6 +61,22 @@ Brand | Model | Payment Method | Day | Month (January–December)
 
 
 
+![Image Alt](https://github.com/badalsingh91461/mobile_Sales_dashboard/blob/main/mobile_Sales.Dashboard.png?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **5.  🛠 Tools & Technologies:**
    . Microsoft Power BI Desktop
 
