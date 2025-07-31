@@ -7,7 +7,7 @@
    This project features an interactive Power BI dashboard built to analyze and visualize mobile phone sales data across major Indian Cities.
    Developed as part of a Power BI skill development course led by Satish Dhavle, the dashboard is designed to deliver key performance insights for brands,        models, transactions, and customer behavior.
 
-  The goal of this project is to simulate an industry-level reporting solution that empowers stakeholders to make data-driven decisions by uncovering trends in      sales performance, regional demand, and payment behavior.
+  The goal of this project is to simulate an industry-level reporting solution that empowers stakeholders to make data-driven decisions by uncovering trends in      sales performance, regional demand, and  payment  behavior.
 
 
 
