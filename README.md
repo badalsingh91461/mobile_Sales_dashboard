@@ -4,7 +4,7 @@
 
 **1. Transforming Raw Sales Data into Actionable Insights for Strategic Decision-Making**
    **🧩 Project Overview:**
-   This project features an interactive Power BI dashboard built to analyze and visualize mobile phone sales data across major Indian cities.
+   This project features an interactive Power BI dashboard built to analyze and visualize mobile phone sales data across major Indian Cities.
    Developed as part of a Power BI skill development course led by Satish Dhavle, the dashboard is designed to deliver key performance insights for brands,        models, transactions, and customer behavior.
 
   The goal of this project is to simulate an industry-level reporting solution that empowers stakeholders to make data-driven decisions by uncovering trends in      sales performance, regional demand, and payment behavior.
@@ -98,7 +98,7 @@ Brand | Model | Payment Method | Day | Month (January–December)
 
    . Gained proficiency in KPI development and interactive design
 
-   . Developed a solution reflecting real-world retail and business intelligence needs
+   . Developed a Solution reflecting real-world retail and business intelligence needs
 
 
 
